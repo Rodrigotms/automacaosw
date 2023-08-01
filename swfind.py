@@ -8,7 +8,7 @@ print('Padrão Mac para DELLs XXXX.XXXX.XXXX')
 mac = input("Digite o MAC para HPs: ")
 macdell = input("Digite o MAC para DELL: " )
 
-ipaddrs = open('ile.txtf')
+ipaddrs = open('file.txt')
 
 hp1 = [
     {
