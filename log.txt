@@ -1,0 +1,24 @@
+
+
+INTELBRAS>
+
+
+INTELBRAS>
+
+
+INTELBRAS>enable
+
+
+INTELBRAS#show mac address-table address 00:30:4f:bb:6e:a2
+
+                    MAC Address Table                    
+------------------------------------------------------------  
+MAC                VLAN    Port     Type            Aging    
+---                ----    ----     ----            -----    
+00:30:4f:bb:6e:a2  1061    Gi1/0/19 dynamic         aging    
+
+Total MAC Addresses for this criterion: 1
+
+
+
+INTELBRAS#
